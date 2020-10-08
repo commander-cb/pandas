@@ -28,3 +28,9 @@ hypothesis   #testing
 
 
 possible gotchas
+
+noticed the missing matplotlib.  tried   failed.
+
+setupgcc-8
+pip install matplotlib
+Successfully installed matplotlib-3.3.2
