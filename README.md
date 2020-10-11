@@ -41,3 +41,11 @@ $ pkg install libjpeg-turbo....
 allows  pillow  .....
 allows   matplotlib ...
 
+
+was running numpy and theano error out clang 10
+switedto setupgcc-8
+when through.
+so it appears , poxsibly geetti g .link errors along the way
+
+
+
