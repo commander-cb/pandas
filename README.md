@@ -29,6 +29,13 @@ hypothesis   #testing
 
 possible gotchas
 
+'''
+# trying stuff
+# this actually looks 2b working
+
+https://ahmadzareei.github.io/azareei/linux/2016/04/08/configuring-blas-lapack.html
+'''
+'''
 noticed the missing matplotlib.  tried   failed.
 
 setupgcc-8
