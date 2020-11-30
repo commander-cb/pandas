@@ -2,9 +2,19 @@
 pandas termux scipy install numpy
 notes 4 install
 
+xxeffer or whatever says to use  export flags to install..
+#
+
+export CFLAGS="-Wno-deprecated-declarations -Wno-unreachable-code"
+#
+https://stackoverflow.com/questions/22897921/pandas-install-error-on-mac
+
+
 termux-master
 from
-pointless
+pointle
+
+ss
 #
 #then switch to  gcc-8
 #for pandas
