@@ -5,6 +5,8 @@ notes 4 install
 xxeffer or whatever says to use  export flags to install..
 #
 
+pandas 1.1.5   went perfect
+
 export CFLAGS="-Wno-deprecated-declarations -Wno-unreachable-code"
 #
 https://stackoverflow.com/questions/22897921/pandas-install-error-on-mac
