@@ -5,7 +5,8 @@ notes 4 install
 xxeffer or whatever says to use  export flags to install..
 #
 
-pandas 1.1.5   went perfect
+pandas 1.1.5   went perfect BUT DID NOT INSTALL ...
+uninstall old version first then install
 
 export CFLAGS="-Wno-deprecated-declarations -Wno-unreachable-code"
 #
